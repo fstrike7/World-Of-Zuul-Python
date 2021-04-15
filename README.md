@@ -8,9 +8,7 @@
 
  ## Instrucciones
  Para correr el código basta con ejecutar game.py usando una consola o terminal, escribiendo el siguiente comando:
- ```python
- python game.py
- ```
+ > python game.py
 
 Para consultar la lista de comandos basta con escribir "help" donde recibirá un mensaje como el siguiente:
 ```
